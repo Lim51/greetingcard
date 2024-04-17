@@ -1,0 +1,6 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/8b7d3f9e-f884-4a53-8fe1-91cfe45654c6/resourceGroups/GreetingCardWebsite/providers/Microsoft.Web/sites/greetingcard",
+    "appService.deploySubpath": ".",
+    "easycode.openAI ApiKey": "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",
+    "easycode.useOwnApiKey": true
+}
